@@ -4,10 +4,6 @@ import Content from "./Content.vue";
 </script>
 
 <template>
-  <head>
-    <Header />
-  </head>
-  <main>
-    <Content />
-  </main>
+  <Header />
+  <Content />
 </template>

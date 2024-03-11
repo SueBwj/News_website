@@ -1,5 +1,4 @@
 <template>
-  <h4>this is title</h4>
   <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nisi
     architecto quisquam culpa. Voluptatem hic tenetur veniam, minima delectus
