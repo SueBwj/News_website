@@ -4,7 +4,9 @@
       class="text-danger"
       a="https://getbootstrap.com/docs/5.3/getting-started/introduction/"
     >
-      <strong>International</strong>
+      <a href="..." class="link-underline-light link-danger"
+        ><strong>International</strong></a
+      >
     </p>
     <div class="page-header">
       <h3>
