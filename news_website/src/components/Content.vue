@@ -1,106 +1,101 @@
 <template>
-  <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nisi
-    architecto quisquam culpa. Voluptatem hic tenetur veniam, minima delectus
-    odit placeat quam omnis quibusdam ducimus! Quis sapiente, repellat ducimus,
-    dolor itaque aut maiores quisquam cum dolore, totam aspernatur architecto
-    voluptatibus incidunt est odio delectus ex recusandae illum ipsam enim dicta
-    sit voluptate molestiae. Modi, rerum aliquam odio molestias quisquam iste
-    eveniet in illo enim alias minima nobis autem velit! In, illum? Dolorem
-    maiores optio, aut nemo expedita laborum ducimus a in numquam corrupti
-    officia nam, ad exercitationem dolorum fugit quos eius. At magnam suscipit
-    iure velit dolore sed nulla voluptate odit nemo! Illum ipsam at omnis vel
-    ullam cum repudiandae nulla sint nam id, accusantium, vitae aliquid
-    dignissimos expedita nihil odit blanditiis deserunt doloremque ea
-    exercitationem fugiat soluta! Aspernatur cumque aliquam explicabo ipsa
-    dolorem dolores nam laboriosam reprehenderit eligendi quas, rem soluta et
-    veniam tempore non quisquam similique maiores corrupti nobis eos modi quasi.
-    Repellendus optio, omnis voluptatem eius consectetur nobis quasi praesentium
-    officia a modi, adipisci aut vitae deleniti esse autem illo, error quisquam
-    tempore accusantium aperiam harum itaque fugiat? Voluptates provident culpa
-    inventore deserunt laudantium placeat repellendus minima, ut in sed quas
-    assumenda unde non doloribus accusantium quaerat. Dicta nobis ducimus vitae
-    laboriosam debitis! Doloribus maxime ea magni nulla atque, qui saepe dolorem
-    corrupti possimus aliquid cum sapiente corporis accusamus repellat,
-    necessitatibus debitis consectetur unde tempore doloremque recusandae quae
-    rem? Ipsa, ab soluta magnam cupiditate vitae odit quas ea eligendi iusto
-    deleniti accusamus ducimus adipisci voluptate suscipit, at quasi ut
-    obcaecati, perspiciatis rem. Soluta debitis doloribus blanditiis quasi
-    officiis, asperiores praesentium exercitationem unde iusto commodi possimus
-    facere ea omnis quis? Fugiat numquam perferendis veniam obcaecati architecto
-    dicta necessitatibus quia voluptatum animi, suscipit distinctio facere ipsam
-    iste cum adipisci aut officia dolore reprehenderit, fugit praesentium nobis.
-    In, voluptas ducimus est dolorem ipsam quis sint sit odio consequuntur ab
-    ipsum beatae nemo impedit alias perspiciatis maxime aliquid? Porro molestiae
-    quaerat consequuntur ut unde earum architecto sint beatae aliquid odio
-    similique, sequi minus impedit enim animi explicabo quos pariatur fugiat
-    accusamus. Voluptas minima unde quaerat error, impedit praesentium. Ullam,
-    magnam fugit animi quod veniam iure asperiores. Provident reiciendis eos,
-    perferendis impedit est eaque natus amet. Voluptas quos ipsa magni quia
-    harum sequi et accusantium, id exercitationem nesciunt nostrum consequatur!
-    Repellendus itaque, omnis cupiditate quidem illo nam nisi a veniam cumque
-    labore sapiente voluptatem! Voluptatibus facere recusandae dolor odio ex
-    repellendus sint pariatur animi quisquam nemo ea eligendi, delectus iusto,
-    amet deleniti perspiciatis autem voluptatum libero eaque laudantium
-    architecto corrupti debitis corporis voluptates. Quo quia architecto atque
-    modi. Vitae iusto laboriosam velit ducimus officia! Consequuntur voluptatum
-    commodi aspernatur, alias iste vel maiores veritatis libero maxime obcaecati
-    ipsa harum nulla tempora laboriosam atque ex praesentium? Cumque, magni!
-    Cupiditate ex vel fugit omnis ipsa, nam unde, vero qui distinctio natus, eos
-    dolor eius. Earum reprehenderit repellendus ab voluptates eligendi dolorem
-    blanditiis eius, aliquid consectetur ratione excepturi, temporibus,
-    quibusdam expedita a voluptatum facere eum aliquam maiores similique error
-    harum? Eaque repudiandae, recusandae, nam distinctio doloremque, animi culpa
-    dolore tempore neque iure accusamus! Eum, consectetur! Quos labore a optio
-    ut minus, vel beatae cum saepe delectus nemo error in fugiat voluptates
-    corporis! Incidunt provident id esse voluptatibus cumque corporis at ullam
-    magnam enim velit sed quasi porro sint saepe molestiae, recusandae, est
-    delectus iure nisi aliquam minus. Saepe deserunt sit placeat vero magnam
-    cumque delectus soluta doloribus. Illo rerum aut, sequi nisi facilis et in
-    porro repellendus velit voluptate dolorem vel perferendis perspiciatis
-    beatae quidem vitae, labore quod deserunt voluptatem dolorum cum ab
-    distinctio! Corrupti obcaecati suscipit error saepe earum cumque, ea
-    asperiores rem voluptates possimus dolorum repellat eaque debitis id
-    tempore, cupiditate ipsum quaerat provident reiciendis vel iusto laboriosam
-    unde quidem? Saepe earum molestiae dignissimos sunt hic tenetur
-    necessitatibus voluptatibus praesentium expedita laborum sequi minima, velit
-    veritatis, pariatur error rerum cupiditate libero esse. Harum quae
-    praesentium enim nisi itaque in voluptatum voluptatem cupiditate deleniti
-    explicabo beatae repudiandae totam, perferendis excepturi illo, deserunt rem
-    modi architecto voluptas vero ipsum quasi, minima recusandae. Est nam ullam
-    dolor voluptatum praesentium magni minima accusantium doloribus porro fuga
-    repudiandae ipsum soluta dolores minus sint, ea non quod perferendis,
-    delectus, eos cumque? Suscipit et ex ea asperiores itaque autem optio
-    corporis necessitatibus odit aliquam impedit quis, pariatur dolorum quas.
-    Voluptatibus sunt sint, perspiciatis minus saepe rem beatae qui molestiae
-    cupiditate culpa distinctio. Quis sapiente suscipit unde aspernatur aperiam
-    sit voluptatibus cupiditate possimus modi necessitatibus facere quisquam
-    quia est, quae amet quidem, maiores quibusdam esse in vel totam obcaecati
-    neque consectetur! Quis assumenda earum ullam quia, eos iusto obcaecati cum
-    et natus error reprehenderit facere. Explicabo rem fugiat, tempora dicta
-    iste fugit cupiditate quae ad esse incidunt ex! Facilis assumenda
-    voluptatibus eveniet ut velit tenetur autem ratione aspernatur odio dolorum
-    repudiandae explicabo voluptatum pariatur quis provident temporibus esse
-    reprehenderit quae ex, exercitationem vitae quia! Tempore aliquid
-    accusantium vel error fugit cum! Dolore, sequi blanditiis. Consectetur
-    voluptate ea officia harum non optio expedita aut unde quam vitae numquam
-    iure enim laudantium autem asperiores, ipsam itaque est incidunt corrupti
-    doloribus! Sunt unde explicabo numquam rerum quia voluptatibus, sapiente
-    voluptatem ullam ut quo dolor ducimus similique ratione dolores eligendi
-    esse quis qui non perspiciatis deleniti, quidem consectetur atque. Debitis
-    aperiam aliquid laborum, repellat vitae ratione facilis, nesciunt inventore
-    autem ipsum impedit aut labore? Reprehenderit amet in nam quo vel provident
-    unde voluptatem laboriosam. Omnis, dignissimos earum explicabo ad amet vel
-    eius quisquam nulla sed deleniti, aut voluptatibus. Ipsam sint sapiente
-    debitis repellendus accusamus deleniti dolores excepturi. Blanditiis
-    recusandae cupiditate nemo voluptates quas? Blanditiis in a minima eum quam
-    adipisci alias corporis dolor facilis nihil earum, odit ipsa corrupti,
-    debitis unde maxime et deserunt voluptatum molestias ipsum. Culpa placeat
-    nisi quasi sapiente, ut assumenda dolores molestias, incidunt doloremque
-    deleniti facere odio consectetur? Est, fugit minus doloremque sunt incidunt
-    iusto hic distinctio libero vel molestias. Accusamus aperiam voluptate a
-    earum nostrum vitae ullam. Inventore corporis et earum quidem ab iste soluta
-    deserunt laborum odio qui, non totam sit hic! Voluptas itaque molestiae
-    vitae eaque, illo quos deleniti?
-  </p>
+  <div class="card w-100 border-0 rounder-0">
+    <img
+      src="https://api.time.com/wp-content/uploads/2024/03/GettyImages-1832703746.jpg?quality=85&w=2400"
+      class="card-img-top mt-3"
+      alt="..."
+    />
+    <div class="card-body">
+      <!-- <h5 class="card-title">Card title</h5> -->
+      <p class="card-text text-body-secondary custom-font-size text-start">
+        Doubts have been raised over the veracity of a new image of Kate
+        Middleton, who had seemingly broken her silence amid mass concern over
+        her health and whereabouts following her surgery in January. Here, she’s
+        pictured in Dec. 2023.Chris Jackson—Getty Images
+      </p>
+      <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+    </div>
+  </div>
+  <div class="text-start mt-10">
+    <p>
+      Kate Middleton had seemingly broken her silence after undergoing surgery
+      in January with a picture and message shared on social media in honor of
+      Mothering Sunday in the U.K., but within just a few hours, news wire
+      agencies including the Associated Press and Reuters retracted the
+      photograph over suspicions of manipulation—fueling further speculation
+      about Middleton’s health status and whereabouts, which have recently
+      appeared shrouded in secrecy and misdirection.
+    </p>
+    <p>
+      On March 10, the Prince and Princess of Wales’ X (formerly Twitter) and
+      Instagram accounts posted a picture of the future queen, 42, with her
+      three children—George, 10, Charlotte, 8, and Louis, 5. The photo is dated
+      2024 and credited to her husband, Prince William, 41.
+    </p>
+    <p>
+      “Thank you for your kind wishes and continued support over the last two
+      months. Wishing everyone a Happy Mother’s Day. C,” the caption for the
+      posts read, signing off with the first letter of her full name, Catherine.
+    </p>
+    <p>
+      The royal couple often post family pictures to mark holidays and special
+      occasions, frequently opting to take their own pictures instead of hiring
+      a professional photographer, which has traditionally been the custom for
+      the royal family.
+    </p>
+    <p>
+      Several news wire agencies originally published the photo, as provided by
+      Kensington Palace, but later removed it. “At closer inspection, it
+      appeared the source had manipulated the image in a way that did not meet
+      AP’s photo standards,” the Associated Press said after issuing a “kill
+      notification,” an industry term flagging the withdrawal to its partner
+      publishers. “The photo shows an inconsistency in the alignment of Princess
+      Charlotte’s left hand.”
+    </p>
+    <p>
+      Reuters said it also pulled the photo “following a post-publication
+      review,” citing its picture editors who found that “part of the sleeve of
+      Kate’s daughter’s cardigan did not line up properly, suggesting that the
+      image had been altered. Reuters could not immediately establish how, why
+      or by whom the alteration had been made.”
+    </p>
+    <p>
+      Agence France-Presse (AFP) also issued a “kill” notice to its partner
+      publishers, saying the photo had been recalled “due to an editorial
+      issue.”
+    </p>
+    <p>
+      Getty Images said in a statement to media outlets that it, too, had
+      “identified a problematic image provided to Getty Images by Kensington
+      Palace” and that it removed it from its site “in accordance with our
+      editorial policy.”
+    </p>
+    <p>
+      PA Media, the large U.K. news agency through which the Royal Family often
+      releases information, told TIME in a statement on Monday: “Like other news
+      agencies, PA Media issued the handout image provided by Kensington Palace
+      of the Princess of Wales and her children in good faith yesterday. We
+      became aware of concerns about the image and we carried a report about it
+      last night, and made clear that we were seeking urgent clarification about
+      the image from Kensington Palace. In the absence of that clarification, we
+      are killing the image from our picture service.”
+    </p>
+    <p>
+      The Kensington Palace press office is not open during weekends and could
+      not be immediately reached for comment. The social media posts remained up
+      as of Sunday night.
+    </p>
+    <p>
+      On Monday morning, the Prince and Princess of Wales’ social media accounts
+      shared an explanation from Middleton: “Like many amateur photographers, I
+      do occasionally experiment with editing. I wanted to express my apologies
+      for any confusion the family photograph we shared yesterday caused. I hope
+      everyone celebrating had a very happy Mother’s Day,” once again signed C.
+    </p>
+  </div>
 </template>
+<style>
+.custom-font-size {
+  font-size: 12px; /* 自定义字体大小 */
+}
+</style>
