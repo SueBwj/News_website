@@ -2,6 +2,7 @@
 import Body from "./components/Body.vue";
 import Comments from "./components/Comments.vue";
 import Navbar from "./components/Navbar.vue";
+import { RouterView } from "vue-router";
 </script>
 
 <template>
