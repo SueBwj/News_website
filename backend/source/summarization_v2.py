@@ -40,8 +40,8 @@ def content_comment_div(raw_summary):
 
 
 def summarization_fun(url="https://www.nytimes.com/2017/03/31/opinion/and-now-the-dreaded-trump-curse.html", slider=0.4,
-                      article_path="backend\source\Article_sample.xlsx",
-                      comment_path="backend\source\Comment_sample.xlsx",
+                      article_path=r"C:\Users\王洁\Desktop\Website_project\backend\source\Article_sample.xlsx",
+                      comment_path=r"C:\Users\王洁\Desktop\Website_project\backend\source\Comment_sample.xlsx",
                       ):
     """函数返回新闻内容和评论的Summary和两个列表,一个列表[news_content_list]代表新闻内容，一个列表[news_comment_list]代表评论内容"""
     # 提取链接页面中的内容
@@ -97,56 +97,59 @@ def summarization_fun(url="https://www.nytimes.com/2017/03/31/opinion/and-now-th
 
     return summary['text'], news_content_list, news_comment_list
 
+# 测试代码
+# print(summarization_fun())
+
 # 区分摘要中内容和评论部分
 
 
-js = """
-function createGradioAnimation() {
-    var container = document.createElement('div');
-    container.id = 'gradio-animation';
-    container.style.fontSize = '2em';
-    container.style.fontWeight = 'bold';
-    container.style.textAlign = 'center';
-    container.style.marginBottom = '20px';
+# js = """
+# function createGradioAnimation() {
+#     var container = document.createElement('div');
+#     container.id = 'gradio-animation';
+#     container.style.fontSize = '2em';
+#     container.style.fontWeight = 'bold';
+#     container.style.textAlign = 'center';
+#     container.style.marginBottom = '20px';
 
-    var text = 'Welcome to Pqy News Summarization!';
-    for (var i = 0; i < text.length; i++) {
-        (function(i){
-            setTimeout(function(){
-                var letter = document.createElement('span');
-                letter.style.opacity = '0';
-                letter.style.transition = 'opacity 0.5s';
-                letter.innerText = text[i];
+#     var text = 'Welcome to Pqy News Summarization!';
+#     for (var i = 0; i < text.length; i++) {
+#         (function(i){
+#             setTimeout(function(){
+#                 var letter = document.createElement('span');
+#                 letter.style.opacity = '0';
+#                 letter.style.transition = 'opacity 0.5s';
+#                 letter.innerText = text[i];
 
-                container.appendChild(letter);
+#                 container.appendChild(letter);
 
-                setTimeout(function() {
-                    letter.style.opacity = '1';
-                }, 50);
-            }, i * 250);
-        })(i);
-    }
+#                 setTimeout(function() {
+#                     letter.style.opacity = '1';
+#                 }, 50);
+#             }, i * 250);
+#         })(i);
+#     }
 
-    var gradioContainer = document.querySelector('.gradio-container');
-    gradioContainer.insertBefore(container, gradioContainer.firstChild);
+#     var gradioContainer = document.querySelector('.gradio-container');
+#     gradioContainer.insertBefore(container, gradioContainer.firstChild);
 
-    return 'Animation created';
-}
-"""
+#     return 'Animation created';
+# }
+# """
 
-slider = gr.Slider(minimum=0.2, maximum=0.8, step=0.1, value=0,
-                   label="Choose the precentage of comments")
+# slider = gr.Slider(minimum=0.2, maximum=0.8, step=0.1, value=0,
+#                    label="Choose the precentage of comments")
 
-# 创建 Gradio 接口
-demo = gr.Interface(fn=summarization_fun,
-                    inputs=[gr.Textbox(
-                        placeholder="URL Here...", label="URL"), slider],
-                    outputs=[gr.Textbox(label="Summarization"),
-                             gr.Textbox(label="news_content_list"),
-                             gr.Textbox(label="news_comment_list")],
-                    title="Summarization based on both the news and the comment.",
-                    description="Enter URL",
-                    js=js
-                    )
-# 启动 Gradio 服务器
-demo.launch()
+# # 创建 Gradio 接口
+# demo = gr.Interface(fn=summarization_fun,
+#                     inputs=[gr.Textbox(
+#                         placeholder="URL Here...", label="URL"), slider],
+#                     outputs=[gr.Textbox(label="Summarization"),
+#                              gr.Textbox(label="news_content_list"),
+#                              gr.Textbox(label="news_comment_list")],
+#                     title="Summarization based on both the news and the comment.",
+#                     description="Enter URL",
+#                     js=js
+#                     )
+# # 启动 Gradio 服务器
+# demo.launch()
