@@ -12,9 +12,14 @@ CORS(app, resources={r'/*': {'origins': '*'}})
 
 
 @app.route('/')
-def index():
+def SummaryResponseToRightSide():
     summary, content, comment = summarization_fun()
-    return jsonify([summary, content, comment])
+    return jsonify({
+        'status': 'success',
+        'summary': summary,
+        'content': content,
+        "comment": comment
+    })
 
 
 if __name__ == '__main__':
