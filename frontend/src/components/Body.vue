@@ -6,10 +6,10 @@ import RightSide from "./RightSide.vue";
 <template>
   <div class="container text-center mt-4">
     <div class="row">
-      <div class="col-9">
+      <div class="col-8">
         <LeftSide />
       </div>
-      <div class="col-3">
+      <div class="col-4">
         <RightSide />
       </div>
     </div>

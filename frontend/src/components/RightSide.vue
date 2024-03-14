@@ -17,15 +17,20 @@
       ><p class="fs-6 fw-light mb-0">ratio of text to comment</p></label
     >
     <input type="range" class="form-range" min="0" max="5" id="customRange2" />
-    <p class="summary">
-      {{ msgDict["summary"] }}
-    </p>
-    <p class="content">
-      {{ msgDict["content"] }}
-    </p>
-    <p>
-      {{ msgDict["comment"] }}
-    </p>
+    <div class="container">
+      <strong>Summary</strong>
+
+      <p class="text-center fs-6 fw-light">
+        <span class="text-decoration-underline text-info-emphasis"
+          >Content Part:
+        </span>
+        {{ msgDict["content"] }}
+        <span class="text-decoration-underline fw-light text-info-emphasis"
+          >Comments Part:
+        </span>
+        {{ msgDict["comment"] }}
+      </p>
+    </div>
   </div>
 </template>
 
